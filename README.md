@@ -1,7 +1,12 @@
 # Forecasting SARS-CoV-2 Next Wave in Iran and the World Using TSK Fuzzy Neural Networks
 
 ### Some Explanations
+
+<div align="justify">
+
 - These lines of codes predict and forecasts up to 6 months (180 days) for COVID deaths, confirmed and Recovered Cases from Jan 2020 till Dec 2021 out of John Hopkins university dataset for Iran. Prediction is by ANFIS (FCM) and Forecasting is by nonlinear ARX model. Just run the code. You can add your dataset and play with parameters.
+
+</div>
 
 ### Link to the paper:
 - https://www.researchgate.net/publication/349215155_Forecasting_SARS-CoV-2_Next_Wave_in_Iran_and_the_World_Using_TSK_Fuzzy_Neural_Networks
