@@ -18,6 +18,15 @@
 #### Any question, please contact:
 - mosavi.a.i.buali@gmail.com
 
+## ABSTRACT
+
+<div align="justify">
+
+Based on World Health Organization (WHO) report, 464,596 confirmed, 26,567 death and 392,293 recovered cases of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or COVID-19 are reported as of October 6, 2020 for Iran. This virus became pandemic in March 11, 2019 and spread worldwide. Due to the absence of specific vaccine, non-pharmacological interventions like social distancing, using disinfectants and wearable masks and gloves are essential till finding an absolute solution. But during this time, Artificial Intelligence methods could aid the available methods to reduce the number of confirmed cases by forecasting the future based on available data from people of a specific region. Fortunately, there are considerable number of up to data datasets of COVID-19 which contain time-series data. Three best of these datasets are John Hopkins University, WHO and European Centre for Disease Prevention and Control datasets which this paper is employed them for experiment. This paper uses Takagi Sugeno Kang Fuzzy Neural Networks forecasting system on mentioned datasets for duration between two waves which is around 3.5 months. Some of the validation metrices are Mean Absolute Percentage Error (MAPE), Explained Variance (EV), and Root Mean Squared Log Error (RMSLE). By forecasting the first wave data for the second wave, highly similar to second wave data are forecasted by the proposed system which, makes this system robust and applicable for future waves.
+
+</div>
+
+
 ![image](https://github.com/user-attachments/assets/4607c080-33b4-4a82-9833-a021ef9c6478)
 ![f 3](https://github.com/user-attachments/assets/978e1dc7-a4d0-455f-8617-964f0a79f998)
 ![f 4](https://github.com/user-attachments/assets/cb5eed47-53dd-4039-8ed0-5d6bd754c254)
